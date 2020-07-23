@@ -13,6 +13,8 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 <i>**Happy Coding!**</i> 😊
 
+[![Nico's github stats](https://github-readme-stats.vercel.app/api?username=Nico-Curti&show_icons=true&theme=gruvbox)](https://github.com/Nico-Curti/github-readme-stats)
+
 #### Languages and Tools
 
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
@@ -20,6 +22,8 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png"></code>
 <code><img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cmake_icon_130685.png"></code>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-Curti&theme=gruvbox)](https://github.com/Nico-Curti)
 
 #### Github groups
 
@@ -44,9 +48,12 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 - *rFBP: Replicated Focusing Belief Propagation algorithm*. **[work in progress]** [![code](http://img.shields.io/badge/code-rFBP-blue.svg)](https://github.com/Nico-Curti/rFBP)
 
-#### Current works
+#### Top collaborators
 
-[![Nico's github stats](https://github-readme-stats.vercel.app/api?username=Nico-Curti&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Nico-Curti/github-readme-stats)
+| [<img src="https://avatars3.githubusercontent.com/u/23407684?s=400&v=4" width="100px"><br /><sub><b>Daniele Dall'Olio</b></sub>](https://github.com/DanieleDallOlio) | [<img src="https://avatars2.githubusercontent.com/u/1419337?s=400&v=4" width="100px"><br /><sub><b>Enrico Giampieri</b></sub>](https://github.com/EnricoGiampieri) | [<img src="https://avatars2.githubusercontent.com/u/44707507?s=400&v=4" width="100px;"/><br /><sub><b>Alex Baroncini</b></sub>](https://github.com/AlexBar93) | [<img src="https://avatars0.githubusercontent.com/u/41483077?s=400&v=4" width="100px;"/><br /><sub><b>Mattia Ceccarelli</b></sub>](https://github.com/Mat092) | [<img src="https://avatars0.githubusercontent.com/u/9303827?s=400&v=4" width="100px;"/><br /><sub><b>Alessandro Fabbri</b></sub>](https://github.com/allefabbri) | [<img src="https://avatars2.githubusercontent.com/u/721187?s=400&v=4" width="100px;"/><br /><sub><b>Stefano Sinigardi</b></sub>](https://github.com/cenit) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+#### Current works
 
 <a href="https://github.com/Nico-Curti/shut">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nico-Curti&repo=shut&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
@@ -63,8 +70,3 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <a href="https://github.com/Nico-Curti/easyDAG">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nico-Curti&repo=easyDAG&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-
-#### Top collaborators
-
-| [<img src="https://avatars3.githubusercontent.com/u/23407684?s=400&v=4" width="100px"><br /><sub><b>Daniele Dall'Olio</b></sub>](https://github.com/DanieleDallOlio) | [<img src="https://avatars2.githubusercontent.com/u/1419337?s=400&v=4" width="100px"><br /><sub><b>Enrico Giampieri</b></sub>](https://github.com/EnricoGiampieri) | [<img src="https://avatars2.githubusercontent.com/u/44707507?s=400&v=4" width="100px;"/><br /><sub><b>Alex Baroncini</b></sub>](https://github.com/AlexBar93) | [<img src="https://avatars0.githubusercontent.com/u/41483077?s=400&v=4" width="100px;"/><br /><sub><b>Mattia Ceccarelli</b></sub>](https://github.com/Mat092) | [<img src="https://avatars0.githubusercontent.com/u/9303827?s=400&v=4" width="100px;"/><br /><sub><b>Alessandro Fabbri</b></sub>](https://github.com/allefabbri) | [<img src="https://avatars2.githubusercontent.com/u/721187?s=400&v=4" width="100px;"/><br /><sub><b>Stefano Sinigardi</b></sub>](https://github.com/cenit) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
