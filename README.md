@@ -13,7 +13,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 <i>**Happy Coding!**</i> 😊
 
-[![Nico's github stats](https://github-readme-stats.vercel.app/api?username=Nico-Curti&show_icons=true&theme=gruvbox)](https://github.com/Nico-Curti/github-readme-stats)
+[![Nico's github stats](https://github-readme-stats.vercel.app/api?username=Nico-Curti&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Languages and Tools
 
