@@ -46,7 +46,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 - *Cross-Environment Comparison of a Bioinformatics Pipeline: Perspectives for Hybrid Computations*. [![researchgate.net](http://img.shields.io/badge/researchgate-10549-g.svg)](https://www.researchgate.net/publication/330014598_Cross-Environment_Comparison_of_a_Bioinformatics_Pipeline_Perspectives_for_Hybrid_Computations_Euro-Par_2018_International_Workshops_Turin_Italy_August_27-28_2018_Revised_Selected_Papers)
 
-- *rFBP: Replicated Focusing Belief Propagation algorithm*. **[work in progress]** [![code](http://img.shields.io/badge/code-rFBP-blue.svg)](https://github.com/Nico-Curti/rFBP)
+- *rFBP: Replicated Focusing Belief Propagation algorithm*. [![JOSS](https://joss.theoj.org/papers/7643779111039dbc7776ff49d2a6b1b0/status.svg)](https://joss.theoj.org/papers/7643779111039dbc7776ff49d2a6b1b0) [![code](http://img.shields.io/badge/code-rFBP-blue.svg)](https://github.com/Nico-Curti/rFBP)
 
 #### Top collaborators
 
