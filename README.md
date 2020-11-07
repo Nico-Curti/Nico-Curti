@@ -23,7 +23,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png"></code>
 <code><img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cmake_icon_130685.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-Curti&theme=gruvbox)](https://github.com/Nico-Curti)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-Curti&hide=jupyter%20notebook&theme=gruvbox)](https://github.com/Nico-Curti)
 
 #### Github groups
 
