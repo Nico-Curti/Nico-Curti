@@ -48,6 +48,8 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 - *rFBP: Replicated Focusing Belief Propagation algorithm*. [![JOSS](https://joss.theoj.org/papers/7643779111039dbc7776ff49d2a6b1b0/status.svg)](https://joss.theoj.org/papers/7643779111039dbc7776ff49d2a6b1b0) [![code](http://img.shields.io/badge/code-rFBP-blue.svg)](https://github.com/Nico-Curti/rFBP)
 
+- *plasticity: Unsupervised Neural Networks with biological-inspired learning rules*. **[work in progress]** [![code](http://img.shields.io/badge/code-plasticity-blue.svg)](https://github.com/Nico-Curti/palsticity)
+
 #### Top collaborators
 
 | [<img src="https://avatars3.githubusercontent.com/u/23407684?s=400&v=4" width="100px"><br /><sub><b>Daniele Dall'Olio</b></sub>](https://github.com/DanieleDallOlio) | [<img src="https://avatars2.githubusercontent.com/u/1419337?s=400&v=4" width="100px"><br /><sub><b>Enrico Giampieri</b></sub>](https://github.com/EnricoGiampieri) | [<img src="https://avatars2.githubusercontent.com/u/44707507?s=400&v=4" width="100px;"/><br /><sub><b>Alex Baroncini</b></sub>](https://github.com/AlexBar93) | [<img src="https://avatars0.githubusercontent.com/u/41483077?s=400&v=4" width="100px;"/><br /><sub><b>Mattia Ceccarelli</b></sub>](https://github.com/Mat092) | [<img src="https://avatars0.githubusercontent.com/u/9303827?s=400&v=4" width="100px;"/><br /><sub><b>Alessandro Fabbri</b></sub>](https://github.com/allefabbri) | [<img src="https://avatars2.githubusercontent.com/u/721187?s=400&v=4" width="100px;"/><br /><sub><b>Stefano Sinigardi</b></sub>](https://github.com/cenit) |
@@ -61,6 +63,14 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 <a href="https://github.com/Nico-Curti/NumPyNet">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nico-Curti&repo=NumPyNet&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/Nico-Curti/rFBP">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nico-Curti&repo=rFBP&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/Nico-Curti/plasticity">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nico-Curti&repo=plasticity&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <a href="https://github.com/Nico-Curti/scorer">
