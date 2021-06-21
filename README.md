@@ -42,7 +42,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 - *Prediction of vascular ageing based on smartphone acquired PPG signals*. [![arxiv.org](http://img.shields.io/badge/bioRxiv-0.1101/116186-B31B1B.svg)](https://www.biorxiv.org/content/10.1101/2020.05.26.116186v1) [![code](http://img.shields.io/badge/code-cardio-blue.svg)](https://github.com/Nico-Curti/cardio)
 
-- *Impact of Concurrency on the Performance of a Whole Exome Sequencing Pipeline*. [![researchgate.net](http://img.shields.io/badge/researchgate-16453-g.svg)](https://www.researchgate.net/publication/340202829_Impact_of_Concurrency_on_the_Performance_of_a_Whole_Exome_Sequencing_Pipeline)
+- *Impact of Concurrency on the Performance of a Whole Exome Sequencing Pipeline*. [![BMC](https://img.shields.io/badge/BMC%20Bioinformatics-10.21203-g.svg)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03780-3)
 
 - *Cross-Environment Comparison of a Bioinformatics Pipeline: Perspectives for Hybrid Computations*. [![researchgate.net](http://img.shields.io/badge/researchgate-10549-g.svg)](https://www.researchgate.net/publication/330014598_Cross-Environment_Comparison_of_a_Bioinformatics_Pipeline_Perspectives_for_Hybrid_Computations_Euro-Par_2018_International_Workshops_Turin_Italy_August_27-28_2018_Revised_Selected_Papers)
 
