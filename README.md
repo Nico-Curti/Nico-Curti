@@ -9,7 +9,7 @@ Hi, I'm Nico Curti, a PhD at the Dept. of Experimental, Diagnostic and Specialty
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 
 - 💬 Ask me about anything [here](https://github.com/Nico-Curti/Nico-Curti/issues)
-- 📫 You can contact me here <a href="mailto:nico.curti2@unibo.it"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg"></a>
+- 📫 You can contact me here [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nico.curti2@unibo.it)
 
 <i>**Happy Coding!**</i> 😊
 
@@ -40,7 +40,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 - *DNetPRO: A network approach for low-dimensional signatures from high-throughput data*. [![arxiv.org](http://img.shields.io/badge/bioRxiv-0.1101/773622-B31B1B.svg)](https://www.biorxiv.org/content/10.1101/773622v1) [![code](http://img.shields.io/badge/code-DNetPRO-blue.svg)](https://github.com/Nico-Curti/DNetPRO)
 
-- *Prediction of vascular ageing based on smartphone acquired PPG signals*. [![arxiv.org](http://img.shields.io/badge/bioRxiv-0.1101/116186-B31B1B.svg)](https://www.biorxiv.org/content/10.1101/2020.05.26.116186v1) [![code](http://img.shields.io/badge/code-cardio-blue.svg)](https://github.com/Nico-Curti/cardio)
+- *Prediction of vascular ageing based on smartphone acquired PPG signals*. [![Scientific Reports](https://img.shields.io/badge/Scientific%20Reports-10.21203-g.svg)](https://www.nature.com/articles/s41598-020-76816-6) [![code](http://img.shields.io/badge/code-cardio-blue.svg)](https://github.com/Nico-Curti/cardio)
 
 - *Impact of Concurrency on the Performance of a Whole Exome Sequencing Pipeline*. [![BMC](https://img.shields.io/badge/BMC%20Bioinformatics-10.21203-g.svg)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03780-3)
 
@@ -49,6 +49,8 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 - *rFBP: Replicated Focusing Belief Propagation algorithm*. [![JOSS](https://joss.theoj.org/papers/7643779111039dbc7776ff49d2a6b1b0/status.svg)](https://joss.theoj.org/papers/7643779111039dbc7776ff49d2a6b1b0) [![code](http://img.shields.io/badge/code-rFBP-blue.svg)](https://github.com/Nico-Curti/rFBP)
 
 - *plasticity: Unsupervised Neural Networks with biological-inspired learning rules*. **[work in progress]** [![code](http://img.shields.io/badge/code-plasticity-blue.svg)](https://github.com/Nico-Curti/palsticity)
+
+- *COVID-19 Lung Segmentation*. [![JOSS](https://joss.theoj.org/papers/10.21105/joss.03447/status.svg)](https://doi.org/10.21105/joss.03447) [![code](http://img.shields.io/badge/code-segmentation-blue.svg)](https://github.com/RiccardoBiondi/segmentation)
 
 #### Top collaborators
 
