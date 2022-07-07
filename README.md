@@ -40,7 +40,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 - *DNetPRO: A network approach for low-dimensional signatures from high-throughput data*. [![arxiv.org](http://img.shields.io/badge/bioRxiv-0.1101/773622-B31B1B.svg)](https://www.biorxiv.org/content/10.1101/773622v1) [![code](http://img.shields.io/badge/code-DNetPRO-blue.svg)](https://github.com/Nico-Curti/DNetPRO)
 
-- *Prediction of vascular ageing based on smartphone acquired PPG signals*. [![Scientific Reports](https://img.shields.io/badge/Scientific%20Reports-10.21203-g.svg)](https://www.nature.com/articles/s41598-020-76816-6) [![code](http://img.shields.io/badge/code-cardio-blue.svg)](https://github.com/Nico-Curti/cardio)
+- *Prediction of vascular ageing based on smartphone acquired PPG signals*. [![Scientific Reports](https://img.shields.io/badge/Scientific%20Reports-10.1038-g.svg)](https://www.nature.com/articles/s41598-020-76816-6) [![code](http://img.shields.io/badge/code-cardio-blue.svg)](https://github.com/Nico-Curti/cardio)
 
 - *Impact of Concurrency on the Performance of a Whole Exome Sequencing Pipeline*. [![BMC](https://img.shields.io/badge/BMC%20Bioinformatics-10.21203-g.svg)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03780-3)
 
@@ -48,9 +48,13 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 - *rFBP: Replicated Focusing Belief Propagation algorithm*. [![JOSS](https://joss.theoj.org/papers/7643779111039dbc7776ff49d2a6b1b0/status.svg)](https://joss.theoj.org/papers/7643779111039dbc7776ff49d2a6b1b0) [![code](http://img.shields.io/badge/code-rFBP-blue.svg)](https://github.com/Nico-Curti/rFBP)
 
-- *plasticity: Unsupervised Neural Networks with biological-inspired learning rules*. [![Entropy](https://img.shields.io/badge/Entropy-10.21203-g.svg)](https://doi.org/10.3390/e24050682) [![code](http://img.shields.io/badge/code-plasticity-blue.svg)](https://github.com/Nico-Curti/palsticity)
+- *plasticity: Unsupervised Neural Networks with biological-inspired learning rules*. [![Entropy](https://img.shields.io/badge/Entropy-10.3390/e24050682-g.svg)](https://www.mdpi.com/1099-4300/24/5/682) [![code](http://img.shields.io/badge/code-plasticity-blue.svg)](https://github.com/Nico-Curti/palsticity)
 
 - *COVID-19 Lung Segmentation*. [![JOSS](https://joss.theoj.org/papers/10.21105/joss.03447/status.svg)](https://doi.org/10.21105/joss.03447) [![code](http://img.shields.io/badge/code-segmentation-blue.svg)](https://github.com/RiccardoBiondi/segmentation)
+
+- *Automated Prediction of the Response to Neoadjuvant Chemoradiotherapy in Patients Affected by Rectal Cancer*. [![Cancers](https://img.shields.io/badge/Cancers-10.3390/cancers14092231-g.svg)](https://www.mdpi.com/2072-6694/14/9/2231) [![code](http://img.shields.io/badge/code-rectal-blue.svg)](https://github.com/giuseppefilitto/img-segm)
+
+- *Prediction of overall survival in cervical cancer patients using PET/CT radiomic features*. [![Applied Science](https://img.shields.io/badge/Applied%20Sciences-10.3390/app12125946-g.svg)](https://www.mdpi.com/2076-3417/12/12/5946)
 
 #### Top collaborators
 
