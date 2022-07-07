@@ -48,7 +48,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 - *rFBP: Replicated Focusing Belief Propagation algorithm*. [![JOSS](https://joss.theoj.org/papers/7643779111039dbc7776ff49d2a6b1b0/status.svg)](https://joss.theoj.org/papers/7643779111039dbc7776ff49d2a6b1b0) [![code](http://img.shields.io/badge/code-rFBP-blue.svg)](https://github.com/Nico-Curti/rFBP)
 
-- *plasticity: Unsupervised Neural Networks with biological-inspired learning rules*. **[work in progress]** [![code](http://img.shields.io/badge/code-plasticity-blue.svg)](https://github.com/Nico-Curti/palsticity)
+- *plasticity: Unsupervised Neural Networks with biological-inspired learning rules*. [![Entropy](https://img.shields.io/badge/Entropy-10.21203-g.svg)](https://doi.org/10.3390/e24050682) [![code](http://img.shields.io/badge/code-plasticity-blue.svg)](https://github.com/Nico-Curti/palsticity)
 
 - *COVID-19 Lung Segmentation*. [![JOSS](https://joss.theoj.org/papers/10.21105/joss.03447/status.svg)](https://doi.org/10.21105/joss.03447) [![code](http://img.shields.io/badge/code-segmentation-blue.svg)](https://github.com/RiccardoBiondi/segmentation)
 
