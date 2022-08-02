@@ -8,7 +8,7 @@ Hi, I'm Nico Curti, a PhD at the Dept. of Experimental, Diagnostic and Specialty
 
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 
-- 💬 Ask me about anything [here](https://github.com/Nico-Curti/Nico-Curti/issues)
+- 💬 Ask me about anything [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Nico-Curti/Nico-Curti.svg?style=plastic)](https://github.com/Nico-Curti/Nico-Curti/pulls) [![GitHub issues](https://img.shields.io/github/issues/Nico-Curti/Nico-Curti.svg?style=plastic)](https://github.com/Nico-Curti/Nico-Curti/issues)
 - 📫 You can contact me here [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nico.curti2@unibo.it)
 
 <i>**Happy Coding!**</i> 😊
