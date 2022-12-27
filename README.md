@@ -38,7 +38,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 - *Implementation and optimization of algorithms in Biomedical Big Data Analytics*. [![gitbook](http://img.shields.io/badge/gitbook-PhD-darkgray.svg)](https://app.gitbook.com/@nico-curti2/s/phd-thesis/) [![code](http://img.shields.io/badge/thesis-PhD-B31B1B.svg)](https://github.com/Nico-Curti/PhDThesis)
 
-- *DNetPRO: A network approach for low-dimensional signatures from high-throughput data*. [![arxiv.org](http://img.shields.io/badge/bioRxiv-0.1101/773622-B31B1B.svg)](https://www.biorxiv.org/content/10.1101/773622v1) [![code](http://img.shields.io/badge/code-DNetPRO-blue.svg)](https://github.com/Nico-Curti/DNetPRO)
+- *A network approach for low-dimensional signatures from high-throughput data*. [![Scientific Reports](https://img.shields.io/badge/Scientific%20Reports-s41598.022.25549.9-g.svg)](https://www.nature.com/articles/s41598-022-25549-9) [![code](http://img.shields.io/badge/code-DNetPRO-blue.svg)](https://github.com/Nico-Curti/DNetPRO)
 
 - *Prediction of vascular ageing based on smartphone acquired PPG signals*. [![Scientific Reports](https://img.shields.io/badge/Scientific%20Reports-10.1038-g.svg)](https://www.nature.com/articles/s41598-020-76816-6) [![code](http://img.shields.io/badge/code-cardio-blue.svg)](https://github.com/Nico-Curti/cardio)
 
