@@ -4,7 +4,7 @@
   <img src="https://media1.tenor.com/images/6958876e721d19e422ee6a929c9f466a/tenor.gif?itemid=10931507">
 </p>
 
-Hi, I'm Nico Curti, a PhD at the Dept. of Experimental, Diagnostic and Specialty Medicine of Bologna University (Italy).
+Hi, I'm Nico Curti, a PhD at the Dept. of Physics and Astronomy of Bologna University (Italy).
 
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 
@@ -42,10 +42,6 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 - *Prediction of vascular ageing based on smartphone acquired PPG signals*. [![Scientific Reports](https://img.shields.io/badge/Scientific%20Reports-10.1038-g.svg)](https://www.nature.com/articles/s41598-020-76816-6) [![code](http://img.shields.io/badge/code-cardio-blue.svg)](https://github.com/Nico-Curti/cardio)
 
-- *Impact of Concurrency on the Performance of a Whole Exome Sequencing Pipeline*. [![BMC](https://img.shields.io/badge/BMC%20Bioinformatics-10.21203-g.svg)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03780-3)
-
-- *Cross-Environment Comparison of a Bioinformatics Pipeline: Perspectives for Hybrid Computations*. [![researchgate.net](http://img.shields.io/badge/researchgate-10549-g.svg)](https://www.researchgate.net/publication/330014598_Cross-Environment_Comparison_of_a_Bioinformatics_Pipeline_Perspectives_for_Hybrid_Computations_Euro-Par_2018_International_Workshops_Turin_Italy_August_27-28_2018_Revised_Selected_Papers)
-
 - *rFBP: Replicated Focusing Belief Propagation algorithm*. [![JOSS](https://joss.theoj.org/papers/7643779111039dbc7776ff49d2a6b1b0/status.svg)](https://joss.theoj.org/papers/7643779111039dbc7776ff49d2a6b1b0) [![code](http://img.shields.io/badge/code-rFBP-blue.svg)](https://github.com/Nico-Curti/rFBP)
 
 - *plasticity: Unsupervised Neural Networks with biological-inspired learning rules*. [![Entropy](https://img.shields.io/badge/Entropy-10.3390/e24050682-g.svg)](https://www.mdpi.com/1099-4300/24/5/682) [![code](http://img.shields.io/badge/code-plasticity-blue.svg)](https://github.com/Nico-Curti/palsticity)
@@ -54,12 +50,16 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 - *Automated Prediction of the Response to Neoadjuvant Chemoradiotherapy in Patients Affected by Rectal Cancer*. [![Cancers](https://img.shields.io/badge/Cancers-10.3390/cancers14092231-g.svg)](https://www.mdpi.com/2072-6694/14/9/2231) [![code](http://img.shields.io/badge/code-rectal-blue.svg)](https://github.com/giuseppefilitto/img-segm)
 
-- *Prediction of overall survival in cervical cancer patients using PET/CT radiomic features*. [![Applied Science](https://img.shields.io/badge/Applied%20Sciences-10.3390/app12125946-g.svg)](https://www.mdpi.com/2076-3417/12/12/5946)
+- *Effectiveness of semi-supervised active learning in automated wound image segmentation*. [![IJMS](https://img.shields.io/badge/IJMS-10.3390/ijms24010706-g.svg)](https://www.mdpi.com/1422-0067/24/1/706)
+
+- *Automated wound image segmentation: transfer learning from human to pet via active semi-supervised learning*. [![Animals](https://img.shields.io/badge/Animals-10.3390/ani13060956-g.svg)](https://www.mdpi.com/2076-2615/13/6/956) [![code](http://img.shields.io/badge/code-PetWound-blue.svg)](https://github.com/Torbidos7/PetWound)
+
+- *Characterization of pupillary light response features for the classification of patients with Optic Neuritis*. [![Applied Science](https://img.shields.io/badge/Applied%20Science-10.3390/app13031520-g.svg)](https://www.mdpi.com/2076-3417/13/3/1520)
 
 #### Top collaborators
 
-| [<img src="https://avatars.githubusercontent.com/u/48323996?v=4" width="100px"><br /><sub><b>Gianluca Carlini</b></sub>](https://github.com/GianlucaCarlini) | [<img src="https://avatars.githubusercontent.com/u/48323959?v=4" width="100px"><br /><sub><b>Riccardo Biondi</b></sub>](https://github.com/RiccardoBiondi) | [<img src="https://avatars3.githubusercontent.com/u/23407684?s=400&v=4" width="100px"><br /><sub><b>Daniele Dall'Olio</b></sub>](https://github.com/DanieleDallOlio) | [<img src="https://avatars2.githubusercontent.com/u/1419337?s=400&v=4" width="100px"><br /><sub><b>Enrico Giampieri</b></sub>](https://github.com/EnricoGiampieri) | [<img src="https://avatars0.githubusercontent.com/u/9303827?s=400&v=4" width="100px;"/><br /><sub><b>Alessandro Fabbri</b></sub>](https://github.com/allefabbri) | [<img src="https://avatars2.githubusercontent.com/u/721187?s=400&v=4" width="100px;"/><br /><sub><b>Stefano Sinigardi</b></sub>](https://github.com/cenit) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+| [<img src="https://avatars.githubusercontent.com/u/48323996?v=4" width="100px"><br /><sub><b>Gianluca Carlini</b></sub>](https://github.com/GianlucaCarlini) | [<img src="https://avatars.githubusercontent.com/u/48323959?v=4" width="100px"><br /><sub><b>Riccardo Biondi</b></sub>](https://github.com/RiccardoBiondi) | [<img src="https://avatars.githubusercontent.com/u/79851688?v=4" width="100px"><br /><sub><b>Daniele Buschi</b></sub>](https://github.com/Torbidos7) | [<img src="https://avatars3.githubusercontent.com/u/23407684?s=400&v=4" width="100px"><br /><sub><b>Daniele Dall'Olio</b></sub>](https://github.com/DanieleDallOlio) | [<img src="https://avatars2.githubusercontent.com/u/1419337?s=400&v=4" width="100px"><br /><sub><b>Enrico Giampieri</b></sub>](https://github.com/EnricoGiampieri) | [<img src="https://avatars0.githubusercontent.com/u/9303827?s=400&v=4" width="100px;"/><br /><sub><b>Alessandro Fabbri</b></sub>](https://github.com/allefabbri) | [<img src="https://avatars2.githubusercontent.com/u/721187?s=400&v=4" width="100px;"/><br /><sub><b>Stefano Sinigardi</b></sub>](https://github.com/cenit) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 #### Current works
 
