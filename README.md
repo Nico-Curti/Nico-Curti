@@ -50,7 +50,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 - *Automated Prediction of the Response to Neoadjuvant Chemoradiotherapy in Patients Affected by Rectal Cancer*. [![Cancers](https://img.shields.io/badge/Cancers-10.3390/cancers14092231-g.svg)](https://www.mdpi.com/2072-6694/14/9/2231) [![code](http://img.shields.io/badge/code-rectal-blue.svg)](https://github.com/giuseppefilitto/img-segm)
 
-- *Effectiveness of semi-supervised active learning in automated wound image segmentation*. [![IJMS](https://img.shields.io/badge/IJMS-10.3390/ijms24010706-g.svg)](https://www.mdpi.com/1422-0067/24/1/706)
+- *Effectiveness of semi-supervised active learning in automated wound image segmentation*. [![IJMS](https://img.shields.io/badge/IJMS-10.3390/ijms24010706-g.svg)](https://www.mdpi.com/1422-0067/24/1/706) [![code](http://img.shields.io/badge/code-deepskin-blue.svg)](https://github.com/Nico-Curti/Deepskin)
 
 - *Automated wound image segmentation: transfer learning from human to pet via active semi-supervised learning*. [![Animals](https://img.shields.io/badge/Animals-10.3390/ani13060956-g.svg)](https://www.mdpi.com/2076-2615/13/6/956) [![code](http://img.shields.io/badge/code-PetWound-blue.svg)](https://github.com/Torbidos7/PetWound)
 
